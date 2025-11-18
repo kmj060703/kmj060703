@@ -17,7 +17,7 @@
 
 ### 🧠 Interest
 <img src="https://img.shields.io/badge/Reinforcement_Learning-F7931E?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Imitation_Learning-FF5722?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Imitation_Learning-FF5722?style=for-the-badge&logo=openai&logoColor=white">
 
 <br>
 
