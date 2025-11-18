@@ -9,11 +9,16 @@
 
 **Environment**<br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
-**Embedded Systems**<br>
+**Robotics & Embedded**<br>
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
 <img src="https://img.shields.io/badge/ATmega128-000000?style=for-the-badge&logo=microchip&logoColor=white">
+
+**Tools**<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 ### 🧠 Interest
 <img src="https://img.shields.io/badge/Reinforcement_Learning-F7931E?style=for-the-badge&logo=openai&logoColor=white">
