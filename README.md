@@ -17,7 +17,8 @@
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
 <img src="https://img.shields.io/badge/ATmega128-000000?style=for-the-badge&logo=microchip&logoColor=white">
 
-**Tools**<br>
+**Frameworks & Tools**<br>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 ### 🧠 Interest
