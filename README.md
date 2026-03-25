@@ -23,4 +23,4 @@ Manipulator Systems · Motion Planning · Robotics Middleware · Embedded Contro
 
 ## Stack
 
-Python · C · C++ · ROS2 · Dynamixel · Linux
+Python · C++ · ROS2 · Linux
