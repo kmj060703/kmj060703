@@ -1,30 +1,26 @@
 # Minjo Kim
 
-Robotics engineer focused on manipulation and learning-based control.
+Building robotic manipulation systems from low-level control to high-level planning.
 
-Currently leading the **Manipulator System** in ROBIT 20th, developing motion planning and a leader–follower architecture for imitation learning.
-
----
-
-## What I Do
-
-* Design and control of robotic manipulators
-* Motion planning for task-oriented execution
-* Leader–Follower system for demonstration collection
-* Imitation Learning from human-guided trajectories
+Manipulator System @ ROBIT 20th
 
 ---
 
-## Tech
+## Work
 
-Python · C++
-ROS2 · Dynamixel
-Linux (Ubuntu)
+* Robot arm control based on Dynamixel communication architecture
+* System integration using ROS2 as a middleware
+* Motion planning for task-level manipulation
+* Learning-based approaches for improving manipulation performance
 
 ---
 
-## GitHub Stats
+## Focus
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kmj060703\&show_icons=true)
+Manipulator Systems · Motion Planning · Robotics Middleware · Embedded Control
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmj060703\&layout=compact)
+---
+
+## Stack
+
+Python · C++ · ROS2 · Dynamixel · Linux
